@@ -1,0 +1,221 @@
+body {
+	margin:0;
+	padding:0;
+	background: url("http://www.designwreck.com/wp-content/uploads/2015/05/q8dZBDP.gif") no-repeat;
+	background-size: 50%;
+    background-position: center -50%;
+	/*background-color: rgba(192, 192, 192, 0.54);*/
+}
+.seattle{
+	width: 100%;
+	margin:0;
+	padding:0;
+	text-align: center;
+	height: 300px;
+    position: fixed;
+    z-index: 3;
+    font-family: 'SEATTLE SANS';
+	
+	/*background-color: rgba(192, 192, 192, 0.54);*/
+}
+
+.city1{
+	width: 350px;
+	margin:30px auto;
+
+}
+
+.map{
+	height:300px;
+}
+
+
+
+
+#ball1 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball2 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball3 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball4 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball5 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball6 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball7 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball8 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball9 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball10 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball11 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball12 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball13 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball14 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball15 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball16 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball17 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball18 {
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+
+
+.raindrop{
+	display: block;
+    width: 2px;
+    height: 40px;
+    position: absolute;
+    border-radius: 59%;
+    background-color: rgba(3, 169, 244, 0.61);
+}
+
+#ball.candy {
+	background-color: #DAA520;
+}
+#ball.silver {
+	background-color: #C0C0C0;
+}
+
+
+@media screen and (max-width: 450px;){
+    body{
+        background-position-y: -120%;
+    }
+    
+}
