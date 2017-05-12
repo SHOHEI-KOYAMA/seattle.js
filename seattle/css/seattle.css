@@ -3,8 +3,7 @@ body {
 	padding:0;
 	background: url("http://www.designwreck.com/wp-content/uploads/2015/05/q8dZBDP.gif") no-repeat;
 	background-size: 50%;
-    background-position: center -50%;
-	/*background-color: rgba(192, 192, 192, 0.54);*/
+	background-position: center -50%;
 }
 .seattle{
 	width: 100%;
@@ -12,11 +11,9 @@ body {
 	padding:0;
 	text-align: center;
 	height: 300px;
-    position: fixed;
-    z-index: 3;
-    font-family: 'SEATTLE SANS';
-	
-	/*background-color: rgba(192, 192, 192, 0.54);*/
+	position: fixed;
+	z-index: 3;
+	font-family: 'SEATTLE SANS';
 }
 
 .city1{
